@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Widepornium
 // @description Widens the Emponium page
-// @version      0.2
+// @version      0.2.1
 // @author       Allebady
 // @match http://*.empornium.me/*
 // @match https://*.empornium.me/*
@@ -33,6 +33,7 @@ function addGlobalStyle(css) {
 }
 
 addGlobalStyle('#content { max-width: 2560px; width: 95%; !important; }');
+addGlobalStyle('#wrapper { max-width: 2560px; width: 95%; !important; }');
 addGlobalStyle('.thin { width: 98% !important; }');
 addGlobalStyle('.details.thin { width: 98% !important; }');
 addGlobalStyle('.main_column { width: 69% !important; }');
