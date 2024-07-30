@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Widepornium
+// @name         Widepornium 0.2
 // @description Widens the Emponium page
 // @version      0.2.1
 // @author       Allebady
