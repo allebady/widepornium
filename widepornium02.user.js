@@ -3,18 +3,12 @@
 // @description Widens the Emponium page
 // @version      0.2.2
 // @author       Allebady
-// @match http://*.empornium.me/*
-// @match https://*.empornium.me/*
-// @match http://empornium.me/*
-// @match https://empornium.me/*
-// @match http://*.empornium.is/*
-// @match https://*.empornium.is/*
-// @match http://empornium.is/*
-// @match https://empornium.is/*
 // @match http://*.empornium.sx/*
 // @match https://*.empornium.sx/*
 // @match http://empornium.sx/*
 // @match https://empornium.sx/*
+// @match http://emparadise.rs/*
+// @match https://emparadise.rs/*
 // @exclude /https?://www\.empornium\.(me|sx|is)/upload\.php.*/
 // @grant       GM_addStyle
 // ==/UserScript==
